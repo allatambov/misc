@@ -1,1 +1,1 @@
-# misc
+# miscellaneous
